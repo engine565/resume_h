@@ -1,2 +1,3 @@
 # resume_h
-repository of my personal resumé w/ updates
+My resumé will be hosted in this repository where
+new implementations will be provided in updated format.
